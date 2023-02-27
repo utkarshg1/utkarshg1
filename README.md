@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @utkarshg1
+- 👋 Hi, I’m Utkarsh Gaikwad @utkarshg1 
 - 👀 I’m a Data Scientist Certified by IBM
 - 🌱 My topics of Interest are Machine Learning and AI
-- 💞️ Also have knowledge of Deploying into web app using Plotly-Dash library
+- 💞️ Have Experience in AWS Deployment of Web Application
 - 📫 How to reach me gaikwadujg@gmail.com
 
 <!---
