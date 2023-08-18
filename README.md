@@ -3,6 +3,7 @@
 - 🌱 My topics of Interest are Machine Learning and AI
 - 💞️ Have Experience in AWS Deployment of Web Application
 - 📫 How to reach me gaikwadujg@gmail.com
+- Expert in Machine Vision and CNN
 
 <!---
 utkarshg1/utkarshg1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
